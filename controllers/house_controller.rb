@@ -1,0 +1,4 @@
+get '/houses' do
+
+
+end
